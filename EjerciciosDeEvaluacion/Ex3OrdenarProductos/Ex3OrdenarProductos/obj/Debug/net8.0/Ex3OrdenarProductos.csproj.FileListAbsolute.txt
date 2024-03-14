@@ -1,0 +1,14 @@
+C:\Users\AEMaximinos\Documents\PSI\11\T14ExpressionesLinq\Ex3OrdenarProductos\Ex3OrdenarProductos\obj\Debug\net8.0\Ex3OrdenarProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AEMaximinos\Documents\PSI\11\T14ExpressionesLinq\Ex3OrdenarProductos\Ex3OrdenarProductos\obj\Debug\net8.0\Ex3OrdenarProductos.AssemblyInfoInputs.cache
+C:\Users\AEMaximinos\Documents\PSI\11\T14ExpressionesLinq\Ex3OrdenarProductos\Ex3OrdenarProductos\obj\Debug\net8.0\Ex3OrdenarProductos.AssemblyInfo.cs
+C:\Users\AEMaximinos\Documents\PSI\11\T14ExpressionesLinq\Ex3OrdenarProductos\Ex3OrdenarProductos\obj\Debug\net8.0\Ex3OrdenarProductos.csproj.CoreCompileInputs.cache
+C:\Users\AEMaximinos\Documents\PSI\11\T14ExpressionesLinq\Ex3OrdenarProductos\Ex3OrdenarProductos\bin\Debug\net8.0\Ex3OrdenarProductos.exe
+C:\Users\AEMaximinos\Documents\PSI\11\T14ExpressionesLinq\Ex3OrdenarProductos\Ex3OrdenarProductos\bin\Debug\net8.0\Ex3OrdenarProductos.deps.json
+C:\Users\AEMaximinos\Documents\PSI\11\T14ExpressionesLinq\Ex3OrdenarProductos\Ex3OrdenarProductos\bin\Debug\net8.0\Ex3OrdenarProductos.runtimeconfig.json
+C:\Users\AEMaximinos\Documents\PSI\11\T14ExpressionesLinq\Ex3OrdenarProductos\Ex3OrdenarProductos\bin\Debug\net8.0\Ex3OrdenarProductos.dll
+C:\Users\AEMaximinos\Documents\PSI\11\T14ExpressionesLinq\Ex3OrdenarProductos\Ex3OrdenarProductos\bin\Debug\net8.0\Ex3OrdenarProductos.pdb
+C:\Users\AEMaximinos\Documents\PSI\11\T14ExpressionesLinq\Ex3OrdenarProductos\Ex3OrdenarProductos\obj\Debug\net8.0\Ex3OrdenarProductos.dll
+C:\Users\AEMaximinos\Documents\PSI\11\T14ExpressionesLinq\Ex3OrdenarProductos\Ex3OrdenarProductos\obj\Debug\net8.0\refint\Ex3OrdenarProductos.dll
+C:\Users\AEMaximinos\Documents\PSI\11\T14ExpressionesLinq\Ex3OrdenarProductos\Ex3OrdenarProductos\obj\Debug\net8.0\Ex3OrdenarProductos.pdb
+C:\Users\AEMaximinos\Documents\PSI\11\T14ExpressionesLinq\Ex3OrdenarProductos\Ex3OrdenarProductos\obj\Debug\net8.0\Ex3OrdenarProductos.genruntimeconfig.cache
+C:\Users\AEMaximinos\Documents\PSI\11\T14ExpressionesLinq\Ex3OrdenarProductos\Ex3OrdenarProductos\obj\Debug\net8.0\ref\Ex3OrdenarProductos.dll

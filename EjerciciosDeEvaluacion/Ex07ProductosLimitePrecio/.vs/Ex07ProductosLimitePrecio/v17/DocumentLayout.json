@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T14ExpressionesLinq\\Ex07ProductosLimitePrecio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4924FBB-B359-4464-976A-5DCA5B57CF50}|Ex07ProductosLimitePrecio\\Ex07ProductosLimitePrecio.csproj|c:\\users\\aemaximinos\\documents\\psi\\11\\t14expressioneslinq\\ex07productoslimiteprecio\\ex07productoslimiteprecio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4924FBB-B359-4464-976A-5DCA5B57CF50}|Ex07ProductosLimitePrecio\\Ex07ProductosLimitePrecio.csproj|solutionrelative:ex07productoslimiteprecio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4924FBB-B359-4464-976A-5DCA5B57CF50}|Ex07ProductosLimitePrecio\\Ex07ProductosLimitePrecio.csproj|C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T14ExpressionesLinq\\Ex07ProductosLimitePrecio\\ex07productoslimiteprecio\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4924FBB-B359-4464-976A-5DCA5B57CF50}|Ex07ProductosLimitePrecio\\Ex07ProductosLimitePrecio.csproj|solutionrelative:ex07productoslimiteprecio\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T14ExpressionesLinq\\Ex07ProductosLimitePrecio\\Ex07ProductosLimitePrecio\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Ex07ProductosLimitePrecio\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T14ExpressionesLinq\\Ex07ProductosLimitePrecio\\Ex07ProductosLimitePrecio\\Entities\\Producto.cs",
+              "RelativeToolTip": "Ex07ProductosLimitePrecio\\Entities\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:10:02.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T14ExpressionesLinq\\Ex07ProductosLimitePrecio\\Ex07ProductosLimitePrecio\\Program.cs",
+              "RelativeDocumentMoniker": "Ex07ProductosLimitePrecio\\Program.cs",
+              "ToolTip": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T14ExpressionesLinq\\Ex07ProductosLimitePrecio\\Ex07ProductosLimitePrecio\\Program.cs",
+              "RelativeToolTip": "Ex07ProductosLimitePrecio\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T11:06:46.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

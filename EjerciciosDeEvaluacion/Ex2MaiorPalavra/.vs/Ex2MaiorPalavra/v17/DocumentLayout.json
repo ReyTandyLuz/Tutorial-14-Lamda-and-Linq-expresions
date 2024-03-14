@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T14ExpressionesLinq\\Ex2MaiorPalavra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70646921-FE85-45E8-A562-14A072A0693E}|Ex2MaiorPalavra\\Ex2MaiorPalavra.csproj|c:\\users\\aemaximinos\\documents\\psi\\11\\t14expressioneslinq\\ex2maiorpalavra\\ex2maiorpalavra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70646921-FE85-45E8-A562-14A072A0693E}|Ex2MaiorPalavra\\Ex2MaiorPalavra.csproj|solutionrelative:ex2maiorpalavra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T14ExpressionesLinq\\Ex2MaiorPalavra\\Ex2MaiorPalavra\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2MaiorPalavra\\Program.cs",
+              "ToolTip": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T14ExpressionesLinq\\Ex2MaiorPalavra\\Ex2MaiorPalavra\\Program.cs",
+              "RelativeToolTip": "Ex2MaiorPalavra\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T17:38:12.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

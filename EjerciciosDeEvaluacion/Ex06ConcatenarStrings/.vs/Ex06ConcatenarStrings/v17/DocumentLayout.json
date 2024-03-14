@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T14ExpressionesLinq\\Ex06ConcatenarStrings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00C4C0B8-994B-4253-B837-90C5E60DF102}|Ex06ConcatenarStrings\\Ex06ConcatenarStrings.csproj|c:\\users\\aemaximinos\\documents\\psi\\11\\t14expressioneslinq\\ex06concatenarstrings\\ex06concatenarstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C4C0B8-994B-4253-B837-90C5E60DF102}|Ex06ConcatenarStrings\\Ex06ConcatenarStrings.csproj|solutionrelative:ex06concatenarstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T14ExpressionesLinq\\Ex06ConcatenarStrings\\Ex06ConcatenarStrings\\Program.cs",
+              "RelativeDocumentMoniker": "Ex06ConcatenarStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T14ExpressionesLinq\\Ex06ConcatenarStrings\\Ex06ConcatenarStrings\\Program.cs",
+              "RelativeToolTip": "Ex06ConcatenarStrings\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:59:50.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
